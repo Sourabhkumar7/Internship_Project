@@ -43,5 +43,8 @@ to run this file :-
 python Data_Extraction.py
 
 
+I also use gitignore so that i can push this code to my github repository
+
+
 
 
